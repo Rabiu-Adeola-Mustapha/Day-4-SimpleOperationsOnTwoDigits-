@@ -1,0 +1,13 @@
+.put input{
+    width: 45px;
+    height: 30px;
+    color: black;
+    padding: 15px;
+    align-content: 10px;
+    margin-right: 10px;
+}
+.put button{
+    width:25 px;
+    height: 25;
+    margin: 25px;
+}
